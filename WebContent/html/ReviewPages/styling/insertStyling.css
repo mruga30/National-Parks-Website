@@ -1,0 +1,23 @@
+.banner{
+  background:    linear-gradient( to right,
+      rgba(0, 0, 0, 0.9), 
+      rgba(255, 0, 0, 0)
+    ),
+    url(../images/form_banner.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 250px;
+}
+  
+  .content-header{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 50px;
+  }
+
+  .content-body{
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 25px;
+  }
+

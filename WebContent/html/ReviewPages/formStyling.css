@@ -1,0 +1,27 @@
+.banner{
+    background:    linear-gradient( to right,
+        rgba(0, 0, 0, 0.9), 
+        rgba(255, 0, 0, 0)
+      ),
+      url(https://www.rei.com/blog/wp-content/uploads/sites/4/2019/12/White_Sands_h_20.93043535.jpg?fit=5616%2C3744);
+    background-position: center;
+    background-size: cover;
+    min-height: 250px;
+  }
+  
+  .banner-text{
+    font-family: 'Catamaran', sans-serif;
+    font-size: 75px;
+    color: white;
+    margin-top: 25px;
+    margin-left: 25px;
+    line-height: 100px;
+  }
+  
+  .edge-col{
+    width: 25px;
+  }
+  
+  .divider{
+    height: 25px;
+  }

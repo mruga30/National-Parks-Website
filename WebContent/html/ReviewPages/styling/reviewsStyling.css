@@ -1,0 +1,47 @@
+.banner{
+  background:    linear-gradient( to right,
+      rgba(0, 0, 0, 0.9), 
+      rgba(255, 0, 0, 0)
+    ),
+    url(../images/reviews_banner.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 250px;
+}
+
+.filter-text{
+  font-family: Lato;
+  font-weight: 700;
+  font-size: 25px;
+  text-align: center;
+}
+
+.splitter{
+  width: 10px;
+}
+
+.park-map{
+  max-height: 400px;
+}
+
+.centered{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sel1{
+	width: 70px;
+}
+
+#wouldRecommend{
+	width: 20px;
+}
+
+#wouldNotRecommend{
+	width: 20px
+}
+
+#firstName{
+	width: 300px
+}

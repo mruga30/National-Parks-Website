@@ -1,0 +1,37 @@
+  .banner-text{
+    font-family: 'catamaran', sans-serif;
+    font-size: 75px;
+    color: white;
+    margin-top: 25px;
+    margin-left: 55px;
+    line-height: 100px;
+  }
+
+  .left-col{
+    margin-left: 50px;
+  }
+
+  .right-col{
+      margin-right: 50px;
+  }
+
+  .divider{
+    height: 25px;
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    background-color: #D0DAEE;
+    text-align: center;
+    padding-top: 5px;
+    font-family: Roboto Mono;
+    font-size: 13px;
+  }
+
+  body{
+    background-color: #F5F5F5;
+  }
